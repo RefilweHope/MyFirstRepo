@@ -1,0 +1,4 @@
+# Brief Introduction About Myself
+Hello! My name is Refilwe Hope Lekganyane. I’m a student who’s passionate about learning, technology, and growth.  
+I enjoy exploring how digital tools can solve real-world problems and make people’s lives easier.  
+This project is helping me understand Git and GitHub better, especially how to manage files, branches, and collaborate effectively.
