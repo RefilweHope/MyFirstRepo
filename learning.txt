@@ -1,0 +1,1 @@
+I've learned how critical branches and pull requests are for collaborative projects, allowing work to be isolated and reviewed before being merged into the main codebase. I also now understand the full cycle from cloning to pushing.
