@@ -1,6 +1,0 @@
-# My Personal and Academic Goals for Next Year
-
-- Improve my coding skills and complete all projects.
-- Stay consistent with my studies.
-- Learn advanced Git and version control workflows.
-- Build or contribute to at least one open-source project.
